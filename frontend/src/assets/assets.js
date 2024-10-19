@@ -88,12 +88,12 @@ export const specialityData = [
 export const doctors = [
     {
         _id: 'doc1',
-        name: 'Dr. Ahmed Ben Youssef',
+        name: 'Dr. Ahmed Youssef',
         image: doc1,
         speciality: 'General physician',
         degree: 'MBBS',
         experience: '4 Years',
-        about: 'Dr. Ben Youssef has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
+        about: 'Dr.  Youssef has a strong commitment to delivering comprehensive medical care, focusing on preventive medicine, early diagnosis, and effective treatment strategies.',
         fees: 50,
         address: {
             line1: '17th Cross, Richmond',
@@ -116,12 +116,12 @@ export const doctors = [
     },
     {
         _id: 'doc3',
-        name: 'Dr. Sami Ben Slimane',
+        name: 'Dr. Sami  Slimane',
         image: doc3,
         speciality: 'Dermatologist',
         degree: 'MBBS',
         experience: '1 Year',
-        about: 'Dr. Ben Slimane is committed to improving skin health through early diagnosis and effective treatments.',
+        about: 'Dr.  Slimane is committed to improving skin health through early diagnosis and effective treatments.',
         fees: 30,
         address: {
             line1: '37th Cross, Richmond',
